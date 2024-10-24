@@ -132,3 +132,109 @@
 * Difficulty Class (DC). Δυσκολία αποφυγής
 * Cantrips. Βασικά ξόρκια
 * Slots. Θέσεις
+* Weapons. Όπλα
+	* Simple melee weapons. Απλά όπλα για μάχες σώμα με σώμα
+		* Club. Ρόπαλο
+		* Dagger. Μαχαίρι
+		* Greatclub. Βαρύ ρόπαλο
+		* Handaxe. Τσεκούρι χειρός
+		* Javelin. Ακόντιο
+		* Light hammer. Ελαφρύ σφυρί
+		* Mace. Ρόπαλο με καρφιά
+		* Quarterstaff. Κοντάρι
+		* Sickle. Δρεπάνι
+		* Spear. Δόρυ
+	* Simple ranged weapons. Απλά όπλα για μάχες εξ αποστάσεως
+		* Light crossbow. Ελαφριά βαλίστρα
+		* Dart. Βελάκι
+		* Shortbow. Μικρό τόξο
+		* Sling. Σφεντόνα
+	* Martial melee weapons. Πολεμικά όπλα για μάχες σώμα με σώμα
+		* Battleaxe. Πολεμικός πέλεκυς
+		* Flail. Μπάλα με καρφιά περασμένη σε αλυσίδα με λαβή (κόπανος)
+		* Glaive. Κοντάρι με λεπίδα στην άκρη (γκλέιβ)
+		* Greataxe. Μεγάλος πολεμικός πέλεκυς
+		* Greatsword. Μεγάλο σπαθί
+		* Halberd. Αλαβάρδα
+		* Lance. Λόγχη
+		* Longsword. Μακρύ σπαθί
+		* Maul. Βαριοπούλα
+		* Morningstar. Μπάλα με καρφιά με λαβή
+		* Pike. Δόρυ με λεπίδα
+		* Rapier. Ευλύγιστο σπαθί
+		* Scimitar. Γιαταγάνι
+		* Shortsword. Κοντό σπαθί
+		* Trident. Τρίαινα
+		* War pick. Πολεμική αξίνα
+		* Warhammer. Πολεμικό σφυρί
+		* Whip. Μαστίγιο
+	* Martial ranged weapons. Πολεμικά όπλα για μάχες εξ αποστάσεως
+		* Blowgun. Φυσοκάλαμο
+		* Hand crossbow. Βαλίστρα χειρός
+		* Heavy crossbow. Βαριά βαλίστρα
+		* Longbow. Μεγάλο τόξο
+		* Net. Δίχτυ
+* Languages. Γλώσσες
+	* Standard languages. Κοινές γλώσσες
+		* Common. Κοινή
+		* Dwarvish. Νανικά
+		* Elvish. Ξωτικίσια
+		* Giant. Γιγαντίσια
+		* Gnomish. Γκνοουμικά
+		* Goblin. Καλικαντζαρίσια
+		* Halfling. Χαφλινικά
+		* Orc. Ορκικά
+	* Exotic languages. Εξωτικές γλώσσες
+		* Abyssal. Αβυσσαλέα
+		* Celestial. Ουράνια
+		* Deep speech. Βαθιά ομιλία
+		* Draconic. Δράκικα
+		* Infernal. Κολασμένα
+		* Primordial. Αρχέγονα
+		* Sylvan. Δασικά
+		* Undercommon. Κοινά υπόγεια
+* Tools. Εργαλεία
+	* Artisan's tools. Εργαλεία τεχνιτών.
+		* Alchemist's supplies. Προμήθειες αλχημιστή
+		* Brewer's supplies. Προμήθειες ζυθοποιού
+		* Calligrapher's supplies. Προμήθειες καλλιγράφου
+		* Carpenter's tools. Εργαλεία ξυλουργού
+		* Cartographer's tools. Εργαλεία χαρτογράφου
+		* Cobbler's tools. Εργαλεία τσαγκάρη
+		* Cook's utensils. Μαγειρικά σκεύη
+		* Glassblower's tools. Εργαλεία φυσητή γυαλιού
+		* Jeweler's tools. Εργαλεία κοσμηματοποιού
+		* Leatherworker's tools. Εργαλεία βυρσοδέψη
+		* Mason's tools. Εργαλεία χτίστη
+		* Painter's supplies. Προμήθειες ζωγράφου
+		* Potter's tools. Εργαλεία αγγειοπλάστη
+		* Smith's tools. Εργαλεία σιδερά
+		* Tinker's tools. Εργαλεία γανωματή
+		* Weaver's tools. Εργαλεία υφαντή
+		* Woodcarver's tools. Εργαλεία ηυλογλύπτη
+	* Disguise kit. Σετ εργαλείων μεταμφίεσης
+	* Forgery kit. Σετ εργαλείων πλαστογραφίας
+	* Gaming set. Σετ παιχνιδιού
+		* Dice set. Σετ ζαριών
+		* Dragonchess set. Σετ σκάκι δράκων
+		* Playing card set. Τράπουλα
+		* Three-Dragon Ante set. Σετ τριών δράκων
+	* Herbalism kit. Σετ βοτάνων
+	* Musical instrument. Μουσικό όργανο
+		* Bagpipes. Γκάιντα
+		* Drum. Τύμπανο
+		* Dulcimer. Σαντούρι
+		* Flute. Φλάουτο
+		* Lute. Λάουτο
+		* Lyre. Λύρα
+		* Horn. Κόρνο
+		* Pan flute. Φλάουτο Πάνα
+		* Shawm. Όμποε
+		* Viol. Βιόλα
+	* Navigator's tools. Εργαλεία πλοηγού
+	* Poisoner's kit. Σετ δηλητηρίων
+	* Thieves' tools. Σετ εργαλείων κλεφτών
+* Damage type. Είδος ζημιάς
+	* Bludgeoning. Θρυμματισμός
+	* Piercing. Αιχμηρό
+	* Slashing. Κόψιμο
